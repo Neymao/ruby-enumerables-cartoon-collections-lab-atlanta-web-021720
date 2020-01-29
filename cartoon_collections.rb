@@ -1,6 +1,9 @@
 def roll_call_dwarves["Doc", "Dopey","Bashful","Grumpy"]
   
-  for each ite
+  for each item 
+  
+  
+  
  
  
  
