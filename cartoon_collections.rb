@@ -22,7 +22,9 @@ def summon_captain_planet(planeteer_calls)
   
   
 
-def long_planeteer_calls (words)
+def long_planeteer_calls (calls)
+  
+  calls = ["puff","go","two"]
   
   
   
