@@ -1,6 +1,6 @@
 def roll_call_dwarves["Doc", "Dopey","Bashful","Grumpy"]
   
-  puts
+  for each ite
  
  
  
