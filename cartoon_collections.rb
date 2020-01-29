@@ -1,21 +1,14 @@
 def roll_call_dwarves["Doc", "Dopey","Bashful","Grumpy"]
   
-  for each item 
+  dwarves.each_with_index do |x,y|
+    name = x 
+    num = y + 1 
+    puts "#{num}. #{name}"
+  end
   
   
   
- 
- 
- 
- 
- 
-  # Your code here
-  
-  
-  
-  
-  
-end
+
 
 def summon_captain_planet# code an argument here
   # Your code here
