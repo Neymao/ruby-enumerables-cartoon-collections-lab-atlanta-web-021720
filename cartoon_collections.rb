@@ -26,7 +26,8 @@ def long_planeteer_calls (calls)
   
   calls = ["puff","go","two"]
   
-  
+  calls.any? do |x|
+    x.length > 4
   
   
   
