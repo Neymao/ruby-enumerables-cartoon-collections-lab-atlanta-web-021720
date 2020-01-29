@@ -10,7 +10,9 @@ def roll_call_dwarves["Doc", "Dopey","Bashful","Grumpy"]
   
 
 
-def summon_captain_planet 
+def summon_captain_planet["earth", "wind", "fire", "water", "heart"]
+  
+  
 
 
   
